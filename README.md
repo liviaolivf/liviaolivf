@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando e aprofundando em Typescript e Angular
 
-<div>
+<div align="center" style="display: inline">
   <a href="https://github.com/liviaolivf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaolivf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaolivf&layout=compact&langs_count=16&theme=dracula" />
